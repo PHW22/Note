@@ -1,4 +1,4 @@
-# Python複製說明
+# Python複製
 Python有許多類型，如內建list, dict, set或套件numpy, tensor。  
 在需要用到複製功能時，內建和套件會有些許不同，下列文章做詳細的研究和說明。  
 1. [不可變物件和可變物件](https://hackmd.io/@0LtVddYWSDabqJwZGH7W5A/S1JObTV96)  
